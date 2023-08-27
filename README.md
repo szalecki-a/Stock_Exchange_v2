@@ -1,4 +1,4 @@
-### Stock_Exchange_v2
+# Stock_Exchange_v2
 
 "Stock Exchange_v2" - Your virtual stock trading terminal in one place.
 
@@ -18,7 +18,7 @@
 
 ## Setup and User Guide
 
-# Initial Setup
+### Initial Setup
 1. Fork the repository on GitHub (optional; do this if you plan to contribute or keep your own version).
 2. Clone the forked repository to your local machine:
    ```git clone https://github.com/szalecki-a/Stock_Exchange_v2```
@@ -27,7 +27,7 @@
 4. Install the required dependencies:
    ```pip install -r requirements.txt```
 
-# Usage
+### Usage
 The project is primarily designed as a stock market simulation tool for casual gaming among friends.
 
 # Running the Program
