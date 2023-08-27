@@ -1,0 +1,20 @@
+{
+    "starting_id": 3,
+    "IBM": {
+        "queue": [
+            {
+                "share_name": "IBM",
+                "price": 138.63,
+                "amount": 98,
+                "seller_id": null,
+                "node_id": 1
+            }
+        ],
+        "bst": [
+            {
+                "price": 138.63,
+                "amount": 98
+            }
+        ]
+    }
+}

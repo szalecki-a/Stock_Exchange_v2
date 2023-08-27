@@ -1,0 +1,122 @@
+{
+    "starting_id": 8,
+    "WMT": {
+        "queue": [
+            {
+                "share_name": "WMT",
+                "price": 140.45,
+                "amount": 77,
+                "user_id": 999,
+                "node_id": 1
+            }
+        ],
+        "bst": [
+            {
+                "price": 140.45,
+                "amount": 77
+            }
+        ]
+    },
+    "VZ": {
+        "queue": [
+            {
+                "share_name": "VZ",
+                "price": 55.65,
+                "amount": 71,
+                "user_id": 999,
+                "node_id": 2
+            }
+        ],
+        "bst": [
+            {
+                "price": 55.65,
+                "amount": 71
+            }
+        ]
+    },
+    "AMZN": {
+        "queue": [
+            {
+                "share_name": "AMZN",
+                "price": 3362.48,
+                "amount": 94,
+                "user_id": 999,
+                "node_id": 3
+            }
+        ],
+        "bst": [
+            {
+                "price": 3362.48,
+                "amount": 94
+            }
+        ]
+    },
+    "GOOG": {
+        "queue": [
+            {
+                "share_name": "GOOG",
+                "price": 2414.05,
+                "amount": 67,
+                "user_id": 999,
+                "node_id": 5
+            }
+        ],
+        "bst": [
+            {
+                "price": 2414.05,
+                "amount": 67
+            }
+        ]
+    },
+    "JPM": {
+        "queue": [
+            {
+                "share_name": "JPM",
+                "price": 165.88,
+                "amount": 93,
+                "user_id": 999,
+                "node_id": 6
+            }
+        ],
+        "bst": [
+            {
+                "price": 165.88,
+                "amount": 93
+            }
+        ]
+    },
+    "CSCO": {
+        "queue": [
+            {
+                "share_name": "CSCO",
+                "price": 51.26,
+                "amount": 82,
+                "user_id": 999,
+                "node_id": 7
+            }
+        ],
+        "bst": [
+            {
+                "price": 51.26,
+                "amount": 82
+            }
+        ]
+    },
+    "FB": {
+        "queue": [
+            {
+                "share_name": "CSCO",
+                "price": 10.00,
+                "amount": 10,
+                "user_id": 1,
+                "node_id": 8
+            }
+        ],
+        "bst": [
+            {
+                "price": 10.00,
+                "amount": 10
+            }
+        ]
+    }
+}

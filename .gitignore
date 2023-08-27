@@ -1,0 +1,63 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE specific files and folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Data files and credentials
+data/
+credentials.json
+
+# Secret data
+*.db
+tcp_connection.py
+admin_secrets.py
+
+
+# dirtscript
+zzzdirtscript.py
+
+# Documents
+*.pdf
+*.docx
+
+# Resource files
+/assets/
+
+# Build and distribution directories
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Tool configuration files
+.env
+
+# Test files
+/tests/
+test_output/
+
+# PostgreSQL database files (assuming you're not storing them in your project directory)
+*.sql
